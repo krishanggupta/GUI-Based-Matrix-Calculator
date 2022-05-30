@@ -1,0 +1,16 @@
+Programming Language: Python
+
+Software Version: 1.0
+
+Compatability: x64-based machines
+
+Software Description: This is a Tkinter based GUI Application to perform various operations on 2x2 and 3x3 Matrices.
+This version deals with only the following operations on each of the above Square Matrix Category:
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Inverse
+5. Adjoint
+6. Determinant
+7. Transpose
